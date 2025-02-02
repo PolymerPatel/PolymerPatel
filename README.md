@@ -1,6 +1,6 @@
-<br><br> ## Hi there, this is Raj 👋
+### Hi there.
 
-👨🏾‍💻 A passionate developer, pursuing coding to become a better sustainability analyst<br>🎓 Studied Materials Engineering and Environmental Engineering at University of Kentucky<br>🎤 Proficient public speaker through fundamentals, professional, and live classes with Ultraspeaking<br>💭 Currently learning software development and data analytics<br>🚀 Interest in sustainable materials with software development in house <br>
+👨🏾‍💻 Passionate developer, pursuing coding to become a better sustainability analyst<br>🎓 Studied Materials Engineering and Environmental Engineering at University of Kentucky<br>🎤 Proficient public speaker through fundamentals, professional, and live classes with Ultraspeaking<br>💭 Currently learning software development and data analytics<br>🚀 Interest in sustainable materials with software development in house <br>
 
 
 # 💻 Tech Stack:
