@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-👋👋👋  Hey there, I'm<br><br>👨🏾‍💻 Passionate developer, pursuing coding to become a better sustainability analyst<br>🎓 Studied Materials Engineering and Environmental Engineering at University of Kentucky<br>🎤 Proficient public speaker through fundamentals, professional, and live classes with Ultraspeaking<br>💭 Currently learning software development and data analytics<br>🚀 Interest in sustainable materials with software development in house <br>
+<br><br>👨🏾‍💻 Passionate developer, pursuing coding to become a better sustainability analyst<br>🎓 Studied Materials Engineering and Environmental Engineering at University of Kentucky<br>🎤 Proficient public speaker through fundamentals, professional, and live classes with Ultraspeaking<br>💭 Currently learning software development and data analytics<br>🚀 Interest in sustainable materials with software development in house <br>
 
 
 # 💻 Tech Stack:
