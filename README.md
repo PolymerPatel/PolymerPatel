@@ -2,7 +2,7 @@
 
 ### Here's a bit of background:
 
-👨🏾‍💻 Passionate developer, pursuing coding to become a better sustainability analyst<br><br>🎓 Studied Materials Engineering and Environmental Engineering at University of Kentucky<br><br>🎤 Proficient public speaker through fundamentals, professional, and live classes with Ultraspeaking<br><br>💭 Currently learning software development and data analytics<br><br>🚀 Seeking a position aligned with my background and has in house software development <br><br>
+👨🏾‍💻 Passionate developer, pursuing coding to become a better sustainability analyst<br><br>🚀 Exploring Engineering opportunities to build software for material science applications  <br><br> 🎓 Studied Materials Engineering and Environmental Engineering at University of Kentucky<br><br>🎤 Proficient public speaker through fundamentals, professional, and live classes with Ultraspeaking<br><br>💭 Currently freelancing in dashboarding and data analytics observability software<br><br>
 
 
 # 💻 Tech Stack:
