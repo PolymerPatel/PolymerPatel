@@ -2,7 +2,7 @@
 
 ### Here's a bit of background:
 
-🎓 Studied Materials Engineering and Environmental Engineering at University of Kentucky<br><br>🚀 Exploring Engineering opportunities to drive sustainable impact  <br><br> 👨🏾‍💻 Passionate developer, pursuing coding to become a better sustainability analyst <br><br>💭 Currently volunteering in sustainable materials and analytics platforms<br><br>
+🎓 Studied Materials Engineering and Environmental Engineering at University of Kentucky<br><br>🚀 Exploring Engineering opportunities to drive sustainable impact  <br><br> 👨🏾‍💻 Passionate developer, pursuing coding to become a better sustainability analyst <br><br>💭 Currently volunteering in circular supply chain platform<br><br>
 
 
 # 💻 Tech Stack:
