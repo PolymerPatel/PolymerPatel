@@ -17,12 +17,12 @@ And I am building innovative material processes, utilizing data analytics tools 
 
 ### 📈 Metrics System Design for [ToInfinity](https://www.toinfinfty.com) (March 2025 - Present)
 
-### Circular Fashion Tech Startup Roadmap
+#### Circular Fashion Tech Startup Roadmap
 
 🛠️ Designed an end-to-end product analytics system for platform.<br>
 ⚙️ Operational system map connecting metrics to product goals - life cycle assessment data integration and sustainability analytics.
 
-### PostHog Key Metrics Dashboard
+#### PostHog Key Metrics Dashboard
 
 Continued design for an end-to-end product analytics system.<br>
 Translated user research into dashboard KPIs and developed backend PostHog integration. <br>
@@ -30,7 +30,7 @@ Translated user research into dashboard KPIs and developed backend PostHog integ
 🔁 KPI event funnel and PostHog setup<br>
 📊 Metric dashboards for partner engagement and volunteer impact
 
-### 🧭 Critical Mineral Circularity Platform (March 2025 - Present)
+#### 🧭 Critical Mineral Circularity Platform (March 2025 - Present)
 
 Python GIS Sustainability Tool
 
