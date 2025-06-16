@@ -5,11 +5,11 @@ Circular Systems Engineer | Aspiring Sustainability Analyst | Backend Developer 
 I am looking for an Environmental Engineering position that leverages data science and software - innovative material processes, utilizing data analytics tools and engineering principles.
 
 ## 🛠️ Technical Expertise
-♻️ Circular Economy Systems: Electronic waste recovery, carbon storage analysis, ESG metric design
-🧪 Materials & Sustainability Insight: Informed by research in casting processes, polymers, and critical minerals
-🐍 Backend Engineering: Python (Flask, FastAPI), REST APIs, PostHog analytics, lightweight database design
-🗺️ Geospatial Data Tools: GeoPandas, Rasterio, Shapely, NumPy, Matplotlib (upskilling in progress)
-📊 Observability & Analytics: PostHog, Splunk, AppDynamics, metric visualization and user event tracking
+♻️ Circular Economy Systems: Electronic waste recovery, carbon storage analysis, ESG metric design<br>
+🧪 Materials & Sustainability Insight: Informed by research in casting processes, polymers, and critical minerals<br>
+🐍 Backend Engineering: Python (Flask, FastAPI), REST APIs, PostHog analytics, lightweight database design<br>
+🗺️ Geospatial Data Tools: GeoPandas, Rasterio, Shapely, NumPy, Matplotlib (upskilling in progress)<br>
+📊 Observability & Analytics: PostHog, Splunk, AppDynamics, metric visualization and user event tracking<br>
 📦 Startup Operations Systems: Workflow design, automation scoping, product metric roadmaps
 
 
