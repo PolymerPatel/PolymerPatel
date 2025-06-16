@@ -6,15 +6,10 @@ I am looking for an Environmental Engineering position that leverages data scien
 
 ## 🛠️ Technical Expertise
 ♻️ Circular Economy Systems: Electronic waste recovery, carbon storage analysis, ESG metric design <br>
-
 🧪 Materials & Sustainability Insight: Informed by research in casting processes, polymers, and critical minerals<br>
-
 🐍 Backend Engineering: Python (Flask, FastAPI), REST APIs, PostHog analytics, database design<br>
-
 📊 Observability & Analytics: PostHog, Splunk, AppDynamics, metric visualization and user event tracking<br>
-
 🗺️ Geospatial Data Tools: GeoPandas, Rasterio, Shapely, NumPy, Matplotlib (upskilling in progress)<br>
-
 📦 Startup Operations Systems: Workflow design, automation scoping, product metric roadmaps
 
 
