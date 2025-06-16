@@ -15,7 +15,7 @@ I am looking for an Environmental Engineering position that leverages data scien
 
 ## 🚀 Current Projects
 
-## 📈 Metrics System Design for [ToInfinity](https://www.toinfinfty.com) (March 2025 - Present)
+### 📈 Metrics System Design for [ToInfinity](https://www.toinfinfty.com) (March 2025 - Present)
 
 ### Circular Fashion Tech Startup Roadmap
 
@@ -32,7 +32,7 @@ Translated user research into dashboard KPIs and developed backend PostHog integ
 🔁 KPI event funnel and PostHog setup
 📊 Metric dashboards for partner engagement and volunteer impact
 
-## 🧭 Critical Mineral Circularity Platform (March 2025 - Present)
+### 🧭 Critical Mineral Circularity Platform (March 2025 - Present)
 
 Python GIS Sustainability Tool
 
