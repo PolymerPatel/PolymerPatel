@@ -2,7 +2,7 @@
 Circular Systems Engineer | Aspiring Sustainability Analyst | Backend Developer <br><br>
 
 ## 🌍 Mission & Approach
-I am looking for an Environmental Engineering position that leverages data science and software - innovative material processes, utilizing data analytics tools and engineering principles.
+I am looking for an Environmental Engineering position that leverages data science and software. And I am building innovative material processes, utilizing data analytics tools and engineering principles.
 
 ## 🛠️ Technical Expertise
 ♻️ Circular Economy: Electronic waste recovery, carbon storage analysis, ESG metric design <br>
