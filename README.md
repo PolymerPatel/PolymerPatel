@@ -1,4 +1,4 @@
-# 🌱 R P | @PolymerPatel <br><br>
+# 🌱 R P | @PolymerPatel
 Circular Systems Engineer | Aspiring Sustainability Analyst | Self-Taught Backend Developer
 
 ## 🌍 Mission & Approach <br><br>
