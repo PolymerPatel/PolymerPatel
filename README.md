@@ -1,12 +1,12 @@
 # 🌱 R P | @PolymerPatel
 Circular Systems Engineer | Aspiring Sustainability Analyst | Backend Developer
 
-## 🌍 Mission & Approach <br><br>
+## 🌍 Mission & Approach
 I am looking for an Environmental Engineering position that leverages data science and software - innovative material processes, utilizing data analytics tools and engineering principles.
 
 "Build systems that reduce waste and enhance materials development for a more just world."
 
-## 🛠️ Technical Expertise <br><br>
+## 🛠️ Technical Expertise
 ♻️ Circular Economy Systems: Electronic waste recovery, carbon storage analysis, ESG metric design<br><br>
 🧪 Materials & Sustainability Insight: Informed by research in casting processes, polymers, and critical minerals <br><br>
 🐍 Backend Engineering: Python (Flask, FastAPI), REST APIs, PostHog analytics, lightweight database design <br><br>
