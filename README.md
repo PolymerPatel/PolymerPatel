@@ -1,17 +1,15 @@
 # 🌱 R P | @PolymerPatel
-Circular Systems Engineer | Aspiring Sustainability Analyst | Backend Developer
+Circular Systems Engineer | Aspiring Sustainability Analyst | Backend Developer <br><br>
 
 ## 🌍 Mission & Approach
 I am looking for an Environmental Engineering position that leverages data science and software - innovative material processes, utilizing data analytics tools and engineering principles.
 
-"Build systems that reduce waste and enhance materials development for a more just world."
-
 ## 🛠️ Technical Expertise
-♻️ Circular Economy Systems: Electronic waste recovery, carbon storage analysis, ESG metric design<br><br>
-🧪 Materials & Sustainability Insight: Informed by research in casting processes, polymers, and critical minerals <br><br>
-🐍 Backend Engineering: Python (Flask, FastAPI), REST APIs, PostHog analytics, lightweight database design <br><br>
-🗺️ Geospatial Data Tools: GeoPandas, Rasterio, Shapely, NumPy, Matplotlib (upskilling in progress) <br><br>
-📊 Observability & Analytics: PostHog, Splunk, AppDynamics, metric visualization and user event tracking <br><br>
+♻️ Circular Economy Systems: Electronic waste recovery, carbon storage analysis, ESG metric design
+🧪 Materials & Sustainability Insight: Informed by research in casting processes, polymers, and critical minerals
+🐍 Backend Engineering: Python (Flask, FastAPI), REST APIs, PostHog analytics, lightweight database design
+🗺️ Geospatial Data Tools: GeoPandas, Rasterio, Shapely, NumPy, Matplotlib (upskilling in progress)
+📊 Observability & Analytics: PostHog, Splunk, AppDynamics, metric visualization and user event tracking
 📦 Startup Operations Systems: Workflow design, automation scoping, product metric roadmaps
 
 
@@ -52,7 +50,7 @@ Merged carbon storage and e-waste analysis in a geospatial platform using Raster
 📌 PostHog + Streamlit dashboards
 🧰 Carbon capture and material lifecycle analysis
 
-# 🫱 Let's Collaborate
+## 🫱 Let's Collaborate
 I'm building an applied portfolio and always open to:
 
 🌿 Sustainability analytics collaborations
