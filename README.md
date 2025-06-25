@@ -7,7 +7,7 @@ Currently, I am building innovative material processes, utilizing data analytics
 
 ## 🛠️ Technical Expertise
 ♻️ Circular Economy: Electronic waste recovery, biomass, textiles, and life cycle analysis metrics<br>
-🧪 Sustainable Materials: Research experience in steel casting processes and environmental contaminants like poly-fluoro alkyl substances (PFAS)<br>
+🧪 Sustainable Materials: Research experience in casting processes and environmental contaminants like poly-fluoro alkyl substances (PFAS)<br>
 🐍 Backend Engineering: Python (Flask, Django), REST APIs, PostHog analytics, microservice architecture<br>
 📊 Observability & Analytics: PostHog, Splunk, AppDynamics, metric visualization and user event tracking<br>
 🗺️ Geospatial Data Tools: GeoPandas, Rasterio, Shapely, NumPy, Matplotlib<br>
