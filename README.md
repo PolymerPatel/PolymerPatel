@@ -1,4 +1,4 @@
-# 🌱 R P | @PolymerPatel
+# 🌱 @PolymerPatel
 Systems Engineer | Aspiring Sustainability Analyst | Backend Developer <br>
 
 ## 🌍 Mission & Approach
