@@ -3,8 +3,8 @@
 ### ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=flat&logo=cisco&logoColor=black) ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=flat&logo=splunk&logoColor=white)<br><br>
 
 ## 🌍 Mission & Approach
-- I am seeking an Engineering position and have upskilled in data science and software development. <br>
-- Currently, I am building innovative material processes, utilizing data analytics tools and Engineering principles. <br><br>
+- Seeking an Engineering position and have upskilled in data science and software development <br>
+- Currently, building innovative material processes, utilizing data analytics tools and Engineering principles <br><br>
 
 ## 🛠️ Technical Expertise
 ♻️ Circular Economy: Electronic waste recovery, biomass, textiles, and life cycle analysis metrics<br>
