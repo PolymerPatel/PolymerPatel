@@ -18,50 +18,49 @@ Currently, I am building innovative material processes, utilizing data analytics
 ### 📈 Metrics System Design for [ToInfinity](https://www.toinfinfty.com) (March 2025 - Present)
 
 #### Circular Fashion Tech Startup Roadmap
-<details>
 
 🛠️ Designed an end-to-end product analytics system for platform.<br>
 ⚙️ Operational system map connecting metrics to product goals - life cycle assessment data integration and sustainability analytics.
 
 Sustainability Metrics Dashboard in July 2025
 
-Continued design for an end-to-end product analytics system.<br>
-Translated user research into dashboard KPIs and developed backend PostHog integration. <br>
+- Continued design for an end-to-end product analytics system.<br>
+- Translated user research into dashboard KPIs and developed backend PostHog integration. <br>
 
-🔁 KPI event funnel and PostHog setup for former client<br>
+🔁 KPI event funnel and PostHog setup during former client project<br>
 📊 Metric dashboards for partner engagement and volunteer impact for current endeavor.
 <details>
 
 #### 🧭 Critical Mineral Circularity Platform (March 2025 - Present)
-<details>
+
 Python GIS Sustainability Tool
 
-Merged carbon storage and e-waste analysis in a geospatial platform using Rasterio and GeoPandas.<br>
-Identified hotspots for battery material recovery, optimal collection routes, and infrastructure placement through geospatial overlays and NumPy statistics.
+- Merged carbon storage and e-waste analysis in a geospatial platform using Rasterio and GeoPandas.<br>
+- Identified hotspots for battery material recovery, optimal collection routes, and infrastructure placement through geospatial overlays and NumPy statistics.
 
 🔍 Carbon site screening based on raster metadata <br>
 ♻️ Electronic waste hotspot mapping and infrastructure siting <br>
 🛠️ Future: Add Streamlit frontend for live web demo
-<details>
+
 
 
 ## 🧭 Skill Focus
-<details> 
+
 🌐 Python GIS (Rasterio, GeoPandas, Dask)<br>
 🔄 REST APIs & lightweight backends<br>
 ♻️ Circularity metrics in supply chains<br>
 📌 PostHog + Streamlit dashboards<br>
 🧰 Carbon capture and material lifecycle analysis
-<details>
+
 
 ## 🫱 Let's Collaborate
-<details>
+
 I'm building an applied portfolio and always open to:
 
 🌿 Sustainability analytics collaborations<br>
 🗺️ GIS project contributions<br>
 🧪 Materials circularity or reuse innovation<br>
-<details>
+
 
 Feel free to explore my projects or request a demo!
 
