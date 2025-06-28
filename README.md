@@ -20,7 +20,7 @@ Currently, I am building innovative material processes, utilizing data analytics
 #### Circular Fashion Tech Startup Roadmap
 
 🛠️ Designed an end-to-end product analytics system for platform.<br>
-⚙️ Operational system map connecting metrics to product goals - life cycle assessment data integration and sustainability analytics.
+⚙️ Operational Engineering system roadmap - life cycle assessment data integration and sustainability analytics.
 
 Sustainability Metrics Dashboard in July 2025
 
