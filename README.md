@@ -1,5 +1,4 @@
 # @PolymerPatel
-
 ### 🌱 Materials and Environmental Engineer | Freelance Data Analyst | Backend Developer <br>
 
 ## 🌍 Mission & Approach
