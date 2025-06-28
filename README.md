@@ -25,10 +25,13 @@ Currently, I am building innovative material processes, utilizing data analytics
 #### Sustainability Metrics Dashboard in July 2025
 
 - Continued design for an end-to-end product analytics system.<br>
-- Translated user research into dashboard KPIs and developed backend PostHog integration. <br>
+- Translating customer procurement into dashboard KPIs <br>
+- Developing UI, backend integration. <br>
 
+📊 Metric dashboards for partner engagement and volunteer impact for current endeavor.<br>
 🔁 KPI event funnel and PostHog setup during former client project<br>
-📊 Metric dashboards for partner engagement and volunteer impact for current endeavor.
+
+
 <details>
 
 #### 🧭 Critical Mineral Circularity Platform (March 2025 - Present)
