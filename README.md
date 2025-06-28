@@ -2,8 +2,8 @@
 Systems Engineer | Aspiring Sustainability Analyst | Backend Developer <br>
 
 ## 🌍 Mission & Approach
-I am seeking an Engineering position and have upskilled in data science and software development. <br>
-Currently, I am building innovative material processes, utilizing data analytics tools and Engineering principles.<br>
+I am seeking an Engineering position and have upskilled in data science and software development. <br><br>
+Currently, I am building innovative material processes, utilizing data analytics tools and Engineering principles. <br><br>
 
 ## 🛠️ Technical Expertise
 ♻️ Circular Economy: Electronic waste recovery, biomass, textiles, and life cycle analysis metrics<br>
