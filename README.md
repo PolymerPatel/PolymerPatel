@@ -13,7 +13,7 @@ Currently, I am building innovative material processes, utilizing data analytics
 🗺️ Geospatial Data Tools: GeoPandas, Rasterio, Shapely, NumPy, Matplotlib<br>
 📦 Startup Operations Systems: Workflow design, automation scoping, product metric roadmaps<br>
 
-## 🚀 Current Projects
+## 🚀 Current Project
 
 ### 📈 Metrics System Design for [ToInfinity](https://www.toinfinfty.com) (March 2025 - Present)
 
@@ -32,7 +32,7 @@ Currently, I am building innovative material processes, utilizing data analytics
 🔁 KPI event funnel and PostHog setup during former client project<br>
 
 
-### Additional Project, Upskilling, and Collaboration
+## Additional Project, Upskilling, and Collaboration
 <details>
 
 #### 🧭 Critical Mineral Circularity Platform (March 2025 - Present)
