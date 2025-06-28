@@ -1,5 +1,9 @@
 # @PolymerPatel
 ### 🌱 Materials and Environmental Engineer | Freelance Data Analyst | Backend Developer <br><br>
+### 💻 Tech Stack:
+<details>
+
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=flat&logo=cisco&logoColor=black) ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=flat&logo=splunk&logoColor=white)
 
 ## 🌍 Mission & Approach
 I am seeking an Engineering position and have upskilled in data science and software development. <br><br>
@@ -46,7 +50,6 @@ Python GIS Sustainability Tool
 🛠️ Future: Add Streamlit frontend for live web demo
 
 
-
 #### Upskilling
 
 🌐 Python GIS (Rasterio, GeoPandas, Dask)<br>
@@ -54,12 +57,5 @@ Python GIS Sustainability Tool
 ♻️ Circularity metrics in supply chains<br>
 🧰 Carbon capture and material lifecycle analysis
 
-
-### 💻 Tech Stack:
-<details>
-
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=flat&logo=cisco&logoColor=black) ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=flat&logo=splunk&logoColor=white)
-
-<details>
 
 Feel free to explore my projects or request a demo!
