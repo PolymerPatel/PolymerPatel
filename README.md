@@ -51,8 +51,8 @@ Python GIS Sustainability Tool
 
 🌐 Python GIS (Rasterio, GeoPandas, Dask)<br>
 🔄 REST APIs & lightweight backends<br>
-♻️ Circularity metrics in supply chains<br>
-🧰 Carbon capture and material lifecycle analysis
+🧰 Circularity metrics in value chains, carbon capture, and material lifecycle analysis
+
 
 
 Feel free to explore my projects or request a demo!
