@@ -1,5 +1,5 @@
 # @PolymerPatel
-### 🌱 Materials and Environmental Engineer | Freelance Data Analyst | Backend Developer <br>
+### 🌱 Materials and Environmental Engineer | Freelance Data Analyst | Backend Developer <br><br>
 
 ## 🌍 Mission & Approach
 I am seeking an Engineering position and have upskilled in data science and software development. <br><br>
@@ -11,7 +11,7 @@ Currently, I am building innovative material processes, utilizing data analytics
 🐍 Backend Engineering: Python (Flask, Django), REST APIs, PostHog analytics, microservice architecture<br>
 📊 Observability & Analytics: PostHog, Splunk, AppDynamics, metric visualization and user event tracking<br>
 🗺️ Geospatial Data Tools: GeoPandas, Rasterio, Shapely, NumPy, Matplotlib<br>
-📦 Startup Operations Systems: Workflow design, automation scoping, product metric roadmaps<br>
+📦 Startup Operations Systems: Workflow design, automation scoping, product metric roadmaps<br><br>
 
 ## 🚀 Current Project
 
@@ -29,8 +29,7 @@ Currently, I am building innovative material processes, utilizing data analytics
 - Developing UI, backend integration. <br>
 
 📊 Metric dashboards for partner engagement and volunteer impact for current endeavor.<br>
-🔁 KPI event funnel and PostHog setup during former client project<br>
-
+🔁 KPI event funnel and PostHog setup during former client project<br><br>
 
 ## Additional Project, Upskilling, and Collaboration
 <details>
