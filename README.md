@@ -15,7 +15,7 @@ Currently, I am building innovative material processes, utilizing data analytics
 
 ## 🚀 Current Project
 
-### 📈 Metrics System Design for [ToInfinity](https://www.toinfinfty.com) (March 2025 - Present)
+### [ToInfinity](https://www.toinfinfty.com) (March 2025 - Present)
 
 #### Circular Fashion Tech Startup Roadmap
 
