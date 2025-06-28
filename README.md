@@ -47,7 +47,7 @@ Python GIS Sustainability Tool
 
 
 
-## 🧭 Skill Focus
+## 🧭 Upskilling
 
 🌐 Python GIS (Rasterio, GeoPandas, Dask)<br>
 🔄 REST APIs & lightweight backends<br>
