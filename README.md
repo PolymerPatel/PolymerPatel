@@ -31,10 +31,10 @@ Currently, I am building innovative material processes, utilizing data analytics
 📊 Metric dashboards for partner engagement and volunteer impact for current endeavor.<br>
 🔁 KPI event funnel and PostHog setup during former client project<br><br>
 
-## Additional Project, Upskilling, and Collaboration
+## Additional Project and Upskilling
 <details>
 
-#### 🧭 Critical Mineral Circularity Platform (March 2025 - Present)
+#### Critical Mineral Circularity Platform (March 2025 - Present)
 
 Python GIS Sustainability Tool
 
@@ -47,22 +47,12 @@ Python GIS Sustainability Tool
 
 
 
-#### 🧭 Upskilling
+#### Upskilling
 
 🌐 Python GIS (Rasterio, GeoPandas, Dask)<br>
 🔄 REST APIs & lightweight backends<br>
 ♻️ Circularity metrics in supply chains<br>
-📌 PostHog + Streamlit dashboards<br>
 🧰 Carbon capture and material lifecycle analysis
-
-
-#### 🫱 Let's Collaborate
-
-I'm building an applied portfolio and always open to:
-
-🌿 Sustainability analytics collaborations<br>
-🗺️ GIS project contributions<br>
-🧪 Materials circularity or reuse innovation<br>
 
 
 Feel free to explore my projects or request a demo!
