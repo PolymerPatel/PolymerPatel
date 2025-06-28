@@ -22,7 +22,7 @@ Currently, I am building innovative material processes, utilizing data analytics
 🛠️ Designed an end-to-end product analytics system for platform.<br>
 ⚙️ Operational Engineering system roadmap - life cycle assessment data integration and sustainability analytics.
 
-Sustainability Metrics Dashboard in July 2025
+#### Sustainability Metrics Dashboard in July 2025
 
 - Continued design for an end-to-end product analytics system.<br>
 - Translated user research into dashboard KPIs and developed backend PostHog integration. <br>
