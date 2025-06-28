@@ -1,5 +1,5 @@
-# 🌱 @PolymerPatel
-Systems Engineer | Aspiring Sustainability Analyst | Backend Developer <br>
+<center> # 🌱 @PolymerPatel <center>
+<center> Systems Engineer | Aspiring Sustainability Analyst | Backend Developer <br> <center>
 
 ## 🌍 Mission & Approach
 I am seeking an Engineering position and have upskilled in data science and software development. <br>
@@ -17,7 +17,7 @@ Currently, I am building innovative material processes, utilizing data analytics
 
 ### 📈 Metrics System Design for [ToInfinity](https://www.toinfinfty.com) (March 2025 - Present)
 
-#### Circular Fashion Tech Startup Roadmap
+<details> #### Circular Fashion Tech Startup Roadmap <details>
 
 🛠️ Designed an end-to-end product analytics system for platform.<br>
 ⚙️ Operational system map connecting metrics to product goals - life cycle assessment data integration and sustainability analytics.
@@ -30,7 +30,7 @@ Translated user research into dashboard KPIs and developed backend PostHog integ
 🔁 KPI event funnel and PostHog setup<br>
 📊 Metric dashboards for partner engagement and volunteer impact
 
-#### 🧭 Critical Mineral Circularity Platform (March 2025 - Present)
+<details> #### 🧭 Critical Mineral Circularity Platform (March 2025 - Present) <details>
 
 Python GIS Sustainability Tool
 
@@ -42,14 +42,14 @@ Identified hotspots for battery material recovery, optimal collection routes, an
 🛠️ Future: Add Streamlit frontend for live web demo
 
 
-## 🧭 Current Learning Focus
+<details> ## 🧭 Skill Focus <details>
 🌐 Python GIS (Rasterio, GeoPandas, Dask)<br>
 🔄 REST APIs & lightweight backends<br>
 ♻️ Circularity metrics in supply chains<br>
 📌 PostHog + Streamlit dashboards<br>
 🧰 Carbon capture and material lifecycle analysis
 
-## 🫱 Let's Collaborate
+<details> ## 🫱 Let's Collaborate <details>
 I'm building an applied portfolio and always open to:
 
 🌿 Sustainability analytics collaborations<br>
