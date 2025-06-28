@@ -32,7 +32,8 @@ Currently, I am building innovative material processes, utilizing data analytics
 🔁 KPI event funnel and PostHog setup during former client project<br>
 
 
-<details> Additional Projects, Upskilling, and Collaboration
+### Additional Projects, Upskilling, and Collaboration
+<details>
 
 #### 🧭 Critical Mineral Circularity Platform (March 2025 - Present)
 
