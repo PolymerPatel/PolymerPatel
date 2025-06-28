@@ -1,5 +1,5 @@
 # 🌱 @PolymerPatel
-## Freelance Systems Engineer | Aspiring Sustainability Analyst | Experienced Backend Developer <br>
+## Freelance Systems Engineer | Aspiring Sustainability Analyst | Backend Developer <br>
 
 ## 🌍 Mission & Approach
 I am seeking an Engineering position and have upskilled in data science and software development. <br><br>
