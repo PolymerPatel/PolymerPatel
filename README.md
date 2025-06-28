@@ -1,4 +1,4 @@
-# 🌱 Freelance Systems Engineer | Sustainability Analyst | Backend Developer <br>
+# 🌱 Materials Engineer | Freelance Data Analyst | Backend Developer <br>
 
 ## 🌍 Mission & Approach
 I am seeking an Engineering position and have upskilled in data science and software development. <br><br>
