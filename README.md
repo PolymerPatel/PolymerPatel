@@ -7,22 +7,20 @@
 
 ## 🛠️ Technical Expertise
 ♻️ Circular Economy: Electronic waste recovery, biomass, textiles, and life cycle analysis metrics<br>
-🧪 Sustainable Materials: Research experience in casting processes and environmental contaminants like PFAS<br>
-🐍 Backend Engineering: Python (Flask, Django), REST APIs, PostHog analytics, microservice architecture<br>
-📊 Observability & Analytics: PostHog, Splunk, AppDynamics, metric visualization and user event tracking<br>
-🗺️ Geospatial Data Tools: GeoPandas, Rasterio, Shapely, NumPy, Matplotlib<br>
 📦 Startup Operations Systems: Workflow design, automation scoping, product metric roadmaps<br><br>
+🧪 Sustainable Materials: Research experience in casting processes and environmental contaminants like PFAS<br>
+📊 Observability & Analytics: PostHog, Splunk, AppDynamics, metric visualization and user event tracking<br>
 
-## 🚀 Current Project
+## 🚀 Sustainability Project
 
-### [ToInfinity](https://www.toinfinfty.com) (March 2025 - Present)
+### [ToInfinity](https://www.toinfinfty.com) (March - June 2025)
 
 #### Circular Fashion Tech Startup Roadmap
 
 🛠️ Designed an end-to-end product analytics system for platform.<br>
 ⚙️ Operational Engineering system roadmap - life cycle assessment data integration and sustainability analytics.
 
-#### Sustainability Metrics Dashboard in July 2025
+#### Client-Facing Dashboard (July - September 2025)
 
 - Continued design for an end-to-end product analytics system.<br>
 - Translating customer procurement into dashboard KPIs <br>
@@ -36,7 +34,7 @@
 
 #### Critical Mineral Circularity Platform (March 2025 - Present)
 
-Python GIS Sustainability Tool
+Sustainability Passion Project
 
 - Merged carbon storage and e-waste analysis in a geospatial platform using Rasterio and GeoPandas.<br>
 - Identified hotspots for battery material recovery, optimal collection routes, and infrastructure placement through geospatial overlays and NumPy statistics.
