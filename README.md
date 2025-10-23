@@ -26,8 +26,8 @@
 - Translating customer procurement into dashboard KPIs <br>
 - Developing UI, backend integration. <br>
 
-📊 Metric dashboards for partner engagement and volunteer impact for current endeavor.<br>
-🔁 KPI event funnel and PostHog setup during former client project<br><br>
+📊 Carbon data analytics for partner engagement.<br>
+🔁 Key performance targets and Power BI setup. <br><br>
 
 ## Additional Project and Upskilling
 <details>
