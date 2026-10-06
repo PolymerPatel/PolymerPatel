@@ -7,7 +7,7 @@
 
 ## 🛠️ Technical Expertise
 ♻️ Circular Economy: Electronic waste recovery, biomass, textiles, and life cycle analysis metrics<br>
-📦 Startup Operations Systems: Workflow design, automation scoping, product metric roadmaps<br>
+📦 Operations Systems: Workflow design, automation scoping, product metric roadmaps<br>
 🧪 Sustainable Materials: Research experience in casting processes and environmental contaminants like PFAS<br>
 📊 Observability and Analytics: PostHog, Splunk, AppDynamics, metric visualization and user event tracking<br>
 
