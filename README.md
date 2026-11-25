@@ -2,18 +2,18 @@
 ### ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=flat&logo=cisco&logoColor=black) ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=flat&logo=splunk&logoColor=white)<br><br>
 
 ## 🌍 Mission & Approach
-- Seeking a sustainability-based position and have upskilled in data science and software development <br>
-- Currently, building innovative material processes, utilizing data analytics tools and Engineering principles <br><br>
+- Seeking a sustainability-based position and showcase skillset in data science and software development here <br>
+- Built innovative processes, utilizing data analytics tools for sustainable materials <br><br>
 
 ## 🛠️ Technical Expertise
 ♻️ Circular Economy: Electronic waste recovery, biomass, textiles, and life cycle analysis metrics<br>
 📦 Operations Systems: Workflow design, automation scoping, product metric roadmaps<br>
-🧪 Sustainable Materials: Research experience in casting processes and environmental contaminants like PFAS<br>
 📊 Observability and Analytics: PostHog, Splunk, AppDynamics, metric visualization and user event tracking<br>
+<!-- 🧪 Sustainable Materials: Research experience in casting processes and environmental contaminants like PFAS<br> -->
 
 ## 🚀 Sustainability Project
 
-### [ToInfinity](https://www.toinfinfty.com) (March - June 2025)
+### [ToInfinity](https://www.toinfinfty.com) (March - September 2025)
 
 #### Circular Fashion Tech Startup Roadmap
 
@@ -30,7 +30,7 @@
 🔁 Key performance targets and Power BI setup. <br><br>
 
 ## Additional Project and Upskilling
-<details>
+<!-- <details> -->
 
 #### Critical Mineral Circularity Platform (March 2025 - Present)
 
@@ -44,12 +44,8 @@ Sustainability Passion Project
 🛠️ Future: Add Streamlit frontend for live web demo
 
 
-#### Upskilling
+#### GIS
 
-🌐 Python GIS (Rasterio, GeoPandas, Dask)<br>
+🌐 Python (Rasterio, GeoPandas, Dask)<br>
 🔄 REST APIs & lightweight backends<br>
 🧰 Circularity metrics in value chains, carbon capture, and material lifecycle analysis
-
-
-
-Feel free to explore my projects or request a demo!
